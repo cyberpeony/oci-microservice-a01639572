@@ -1,0 +1,9 @@
+/Users/fernandadiaz/Desktop/Bloque 1/Java/oci-microservice/src/main/java/com/example/oci_microservice/OciMicroserviceApplication.java
+/Users/fernandadiaz/Desktop/Bloque 1/Java/oci-microservice/src/main/java/com/example/oci_microservice/controller/OrderController.java
+/Users/fernandadiaz/Desktop/Bloque 1/Java/oci-microservice/src/main/java/com/example/oci_microservice/controller/UserController.java
+/Users/fernandadiaz/Desktop/Bloque 1/Java/oci-microservice/src/main/java/com/example/oci_microservice/model/Order.java
+/Users/fernandadiaz/Desktop/Bloque 1/Java/oci-microservice/src/main/java/com/example/oci_microservice/model/User.java
+/Users/fernandadiaz/Desktop/Bloque 1/Java/oci-microservice/src/main/java/com/example/oci_microservice/repository/OrderRepository.java
+/Users/fernandadiaz/Desktop/Bloque 1/Java/oci-microservice/src/main/java/com/example/oci_microservice/repository/UserRepository.java
+/Users/fernandadiaz/Desktop/Bloque 1/Java/oci-microservice/src/main/java/com/example/oci_microservice/service/OrderService.java
+/Users/fernandadiaz/Desktop/Bloque 1/Java/oci-microservice/src/main/java/com/example/oci_microservice/service/UserService.java
